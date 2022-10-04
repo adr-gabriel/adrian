@@ -176,4 +176,8 @@ form input {
     width: 50%;
 }.checkbox {
     margin: 20px 0;
+}form label, form legend {
+    display:block;
+    font-size: 20px;
+    margin: 0 0 10px;
 }
